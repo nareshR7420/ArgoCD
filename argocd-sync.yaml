@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/nareshR7420/agrocd.git
+    repoURL: https://github.com/nareshR7420/ArgoCD.git
     targetRevision: HEAD
     path: kube-manifest
   destination: 
